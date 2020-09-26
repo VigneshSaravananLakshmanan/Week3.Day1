@@ -4,6 +4,8 @@ import org.college.College;
 
 public class Department extends College {
 	
+	/* Create Methods  - This methods are declared for learning Inheritance concept*/
+	
 	public void deptName() {
 		
 		

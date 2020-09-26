@@ -2,7 +2,7 @@ package MethodOverriding;
 
 public class BankInfo {
 	
-	/* Creating methods in Parent class - saving(),fixed(),deposit() */
+	/* Creating methods in Parent class - saving(),fixed(),deposit(). */
 	
 	public void saving() {
 		

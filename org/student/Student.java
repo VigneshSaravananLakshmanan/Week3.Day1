@@ -9,7 +9,7 @@ public class Student extends Department {
 	 * This is called Multi Level Inheritance */
 	
 	
-	/* Create Methods */
+	/* Create Methods  - This methods are declared for learning Inheritance concept*/
    public void studentName() {
 		
 		System.out.println("This method in Student class lists the Student Names ");
@@ -31,6 +31,7 @@ public class Student extends Department {
 		/* Create an object for Student class */
 		Student student = new Student();
 		
+		/* All the methods declared in different classes are invoked using the single object with the concept of inheritance*/
 		student.collegeCode();
 		student.collegeName();
 		student.collegeRank();

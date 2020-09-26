@@ -2,7 +2,7 @@ package org.college;
 
 public class College {
 	
-	/* Create Methods */
+	/* Create Methods  - This methods are declared for learning Inheritance concept*/
 	
 	public void collegeName() {
 		
